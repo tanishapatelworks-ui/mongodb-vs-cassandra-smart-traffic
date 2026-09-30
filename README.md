@@ -2,9 +2,10 @@
 
 A comparative study of two leading NoSQL databases for the data demands of modern Smart Traffic Management Systems (STMS), based on a systematic literature review and culminating in a proposed hybrid architecture.
 
-![Type](https://img.shields.io/badge/Type-Academic%20Research-blue)
+[![Research Paper](https://img.shields.io/badge/Read-Research%20Paper-blue)](./researchpaper.pdf)
+[![Presentation](https://img.shields.io/badge/View-Presentation-orange)](./MongoDB_vs_Cassandra_STMS_Presentation%20%282%29.pdf)
 ![Method](https://img.shields.io/badge/Method-Systematic%20Literature%20Review-green)
-![Studies](https://img.shields.io/badge/Studies%20Reviewed-15-orange)
+![Studies](https://img.shields.io/badge/Studies%20Reviewed-15-lightgrey)
 ![Period](https://img.shields.io/badge/Period-2016--2025-lightgrey)
 
 ---
@@ -97,8 +98,8 @@ This work shows how different NoSQL technologies can be combined according to th
 
 | File | Description |
 |------|-------------|
-| [`Research-Paper.pdf`](./Research-Paper.pdf) | Full research paper |
-| [`Presentation.pdf`](./Presentation.pdf) | Research presentation |
+| [`researchpaper.pdf`](./researchpaper.pdf) | Full research paper |
+| [`MongoDB_vs_Cassandra_STMS_Presentation (2).pdf`](./MongoDB_vs_Cassandra_STMS_Presentation%20%282%29.pdf) | Research presentation |
 
 ---
 
