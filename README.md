@@ -4,9 +4,7 @@ A comparative study of two leading NoSQL databases for the data demands of moder
 
 [![Research Paper](https://img.shields.io/badge/Read-Research%20Paper-blue)](./researchpaper.pdf)
 [![Presentation](https://img.shields.io/badge/View-Presentation-orange)](./MongoDB_vs_Cassandra_STMS_Presentation%20%282%29.pdf)
-![Method](https://img.shields.io/badge/Method-Systematic%20Literature%20Review-green)
-![Studies](https://img.shields.io/badge/Studies%20Reviewed-15-lightgrey)
-![Period](https://img.shields.io/badge/Period-2016--2025-lightgrey)
+
 
 ---
 
